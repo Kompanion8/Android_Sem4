@@ -5,3 +5,4 @@
 ## [CD2.3: Основные компоненты](https://github.com/Kompanion8/Android_Sem4/tree/main/Sukholozov_4)
 ## [CD2.4: Универсальная навигация](https://github.com/Kompanion8/Android_Sem4/tree/main/Sukholozov_5)
 ## [CD2.5: Анимация](https://github.com/Kompanion8/Android_Sem4/tree/main/Sukholozov_6)
+## [CD2.6: Форма регистрации](https://github.com/Kompanion8/Android_Sem4/tree/main/Sukholozov_7)
